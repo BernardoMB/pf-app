@@ -50,3 +50,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Server runs in port 300
 
 - Angular Client runs in port 420. See `angular-cli.json`
+
+### Pendientes:
+
+ - Email confirmation
+ - Ver que pedo con los tokens y middlewares
+ - Boton de rememberme para guardar la cookie forever
+ - Ver que pedo con el log out
+ - Pasar apunte de matematicas financieras
+ 
